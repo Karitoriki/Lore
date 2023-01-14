@@ -3,7 +3,7 @@
 Name                        | Status            | Relation
 ----------------------------|-------------------|-----------------------
 [Admin](Admin.md)           | Status: Deceased  | Former Enemies
-_The Entity_, The           | Status: Immortal  | Enemies
+_The Entity_                | Status: Immortal  | Enemies
 [Genesis](Genesis.md)       | Status: Alive     | Friendly Acquaintances
 [Izzy](Izzy.md)             | Status: Alive     | Flower Cult Sisters
 [Kawataro](Kawataro.md)     | Status: Forgotten | Acquaintances of Sorts
@@ -36,7 +36,7 @@ _The Entity_, The           | Status: Immortal  | Enemies
 * Visited [Kawataro](Kawataro.md) and remembered all that they had discussed, including that he had made the sword and trapped souls in there. [Kawataro](Kawataro.md) egged her on until she killed him.
 * Later that day, she went after [Admin](Admin.md), who was defended by [Morgan](Atiredstudent) and [Genesis](Genesis.md). She killed [Morgan](Atiredstudent), then [Genesis](Genesis.md).
 * While pursuing [Admin](Admin.md), Multi is stabbed by the Sword, which has a mind of its own.
-* Brought back to life by [Admin](Admin.md) and taken to _Here_, an island labratory where she can be kept safe.
+* Brought back to life by [Admin](Admin.md) and taken to _Here_, an island laboratory where she can be kept safe.
 
 ### Prison Arc
 
@@ -52,12 +52,12 @@ _The Entity_, The           | Status: Immortal  | Enemies
 * [Admin](Admin.md) summoned _The Entity_ to kill her, but Multi stood in defense of [Admin](Admin.md), realizing she didn't want her dead. [Admin](Admin.md) died anyway.
 * Later tried to kill herself to rid the world of the threat she posed, however _The Entity_ made her immortal.
 * Burnt by [Kawataro's](Kawataro.md) sword, which she had stolen off his body when she killed him.
-* Left [Kawataro's](Kawataro.md) sword in a chest at spawn, along with her armour which she felt was suffocating her.
+* Left [Kawataro's](Kawataro.md) sword in a chest at spawn, along with her armor which she felt was suffocating her.
 
 #### Immortal Arc (Ongoing)
 
 * Joined [Izzy](Izzy.md) at Spider Lily Village where they started the flower cult.
-* Discovered a portal at [Almost's](AlmostHilarious.md) base alongside [Izzy](Izzy.md). _The Entity_ adamantly tried to desuade them from going through it, even breaking the portal. _The Entity_ then gives them one chance to find an item and unlock the portal. [Izzy](Izzy.md) tried two items and is killed for cheating, while Almost used a beacon and was allowed to fall asleep instead.
+* Discovered a portal at [Almost's](AlmostHilarious.md) base alongside [Izzy](Izzy.md). _The Entity_ adamantly tried to dissuade them from going through it, even breaking the portal. _The Entity_ then gives them one chance to find an item and unlock the portal. [Izzy](Izzy.md) tried two items and is killed for cheating, while Almost used a beacon and was allowed to fall asleep instead.
 * Performed a ritual to bring [Izzy](Izzy.md) back to life.
 * Realized [Kawa](Kawataro.md) had been following them and had a conversation with him about immortality, punishments, and _The Entity_ before being made to turn away from him in anger and thus forget he was there.
 * Ran into [Trevor](Trevor.md) and a second portal at spawn. Helped him pass through it.
