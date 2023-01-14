@@ -1,13 +1,15 @@
 ## Relationships
 
-* [Admin](Admin.md) - Status: Deceased - Former Enemies
-* _The Entity_, The - Status: Immortal - Enemies
-* [Genesis](Genesis.md) - Status: Alive - Friendly Acquaintances
-* [Izzy](Izzy.md) - Status: Alive - Flower Cult Sisters
-* [Kawataro](Kawataro.md) - Status: Forgotten - Acquaintances of Sorts
-* [Morgan](Atiredstudent.md) - Status: Unknown - Hostile Acquaintances
-* [Rufferamin](Rufferamin.md) - Status: Unknown - Former Allies
-* [Trevor](Trevor.md) - Status: Unknown - Friendly Acquaintances
+Name                        | Status            | Relation
+----------------------------|-------------------|-----------------------
+[Admin](Admin.md)           | Status: Deceased  | Former Enemies
+_The Entity_, The           | Status: Immortal  | Enemies
+[Genesis](Genesis.md)       | Status: Alive     | Friendly Acquaintances
+[Izzy](Izzy.md)             | Status: Alive     | Flower Cult Sisters
+[Kawataro](Kawataro.md)     | Status: Forgotten | Acquaintances of Sorts
+[Morgan](Atiredstudent.md)  | Status: Unknown   | Hostile Acquaintances
+[Rufferamin](Rufferamin.md) | Status: Unknown   | Former Allies
+[Trevor](Trevor.md)         | Status: Unknown   | Friendly Acquaintances
 
 ## Abilities & Traits
 
